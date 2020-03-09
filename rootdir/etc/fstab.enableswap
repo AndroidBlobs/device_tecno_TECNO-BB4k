@@ -1,0 +1,3 @@
+# PPD: XLWSHBLEB-381 modify to add swapTotal space by qianwen.guo 190911 start
+/dev/block/zram0 none swap defaults zramsize=83%,swapprio=10
+# PPD: XLWSHBLEB-381 modify to add swapTotal space by qianwen.guo 190911 end
